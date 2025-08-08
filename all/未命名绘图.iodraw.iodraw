@@ -117,8 +117,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="593" y="143" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="628" y="432" />
-              <mxPoint x="628" y="156" />
+              <mxPoint x="614" y="432" />
+              <mxPoint x="614" y="156" />
               <mxPoint x="593" y="156" />
             </Array>
           </mxGeometry>
@@ -141,7 +141,7 @@
         <mxCell id="Ue1Bp7O_zkWy1I_SdMih-41" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="567" y="410" width="27" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Ue1Bp7O_zkWy1I_SdMih-43" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="Ue1Bp7O_zkWy1I_SdMih-43" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="RsecF88ot4ue-1dbSxJt-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="392" y="438" as="sourcePoint" />
             <mxPoint x="384" y="117" as="targetPoint" />
@@ -156,6 +156,9 @@
             <mxPoint x="280" y="242" as="sourcePoint" />
             <mxPoint x="338" y="242" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RsecF88ot4ue-1dbSxJt-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="57" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
