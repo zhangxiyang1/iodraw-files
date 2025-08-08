@@ -104,15 +104,6 @@
             <mxPoint x="507" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ue1Bp7O_zkWy1I_SdMih-28" value="更新鹰群位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="447" y="667" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ue1Bp7O_zkWy1I_SdMih-29" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="507" y="707" as="sourcePoint" />
-            <mxPoint x="507" y="737" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ue1Bp7O_zkWy1I_SdMih-30" value="满足终止条件" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="447" y="737" width="120" height="40" as="geometry" />
         </mxCell>
@@ -152,7 +143,7 @@
             <mxPoint x="505" y="549" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F-d48BduQShbkZwyG2X5-8" value="重新计算适应度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F-d48BduQShbkZwyG2X5-8" value="更新全局最优鹰位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="445" y="548" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
