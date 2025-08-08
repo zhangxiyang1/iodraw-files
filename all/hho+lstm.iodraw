@@ -125,22 +125,6 @@
         <mxCell id="Ue1Bp7O_zkWy1I_SdMih-32" value="误差分析并多径干扰缓解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="447" y="482" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ue1Bp7O_zkWy1I_SdMih-36" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="510" y="450" width="26" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Ue1Bp7O_zkWy1I_SdMih-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Ue1Bp7O_zkWy1I_SdMih-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="567" y="431.58" as="sourcePoint" />
-            <mxPoint x="621" y="91" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="625" y="432" />
-              <mxPoint x="621" y="154" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ue1Bp7O_zkWy1I_SdMih-41" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="567" y="409" width="27" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
