@@ -142,12 +142,12 @@
           <mxGeometry x="572" y="367" width="27" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RsecF88ot4ue-1dbSxJt-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="275" y="83" width="52" height="314" as="geometry" />
+          <mxGeometry x="275" y="83" width="52" height="316" as="geometry" />
         </mxCell>
         <mxCell id="RsecF88ot4ue-1dbSxJt-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="344" y="452" as="sourcePoint" />
-            <mxPoint x="407" y="450" as="targetPoint" />
+            <mxPoint x="333" y="398" as="sourcePoint" />
+            <mxPoint x="364" y="397" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
