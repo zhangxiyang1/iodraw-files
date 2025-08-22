@@ -125,6 +125,42 @@
         <mxCell id="Ue1Bp7O_zkWy1I_SdMih-41" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="830" y="546" width="27" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="uZylZog9FQw-Z7-VKUVm-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="517" y="142" as="targetPoint" />
+            <mxPoint x="517" y="112" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uZylZog9FQw-Z7-VKUVm-1" value="粒子适合度计算" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="457" y="142" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZylZog9FQw-Z7-VKUVm-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="517" y="182" as="sourcePoint" />
+            <mxPoint x="517" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uZylZog9FQw-Z7-VKUVm-3" value="粒子Mbest计算" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="457" y="212" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZylZog9FQw-Z7-VKUVm-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="517" y="252" as="sourcePoint" />
+            <mxPoint x="517" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uZylZog9FQw-Z7-VKUVm-5" value="更新粒子位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="457" y="282" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZylZog9FQw-Z7-VKUVm-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="517" y="322" as="sourcePoint" />
+            <mxPoint x="517" y="352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uZylZog9FQw-Z7-VKUVm-7" value="更新全局最优位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="457" y="352" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
