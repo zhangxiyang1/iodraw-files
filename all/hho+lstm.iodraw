@@ -159,7 +159,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uZylZog9FQw-Z7-VKUVm-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="438" y="527" width="20" height="120" as="geometry" />
+          <mxGeometry x="319" y="456" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uZylZog9FQw-Z7-VKUVm-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423" y="612" as="sourcePoint" />
+            <mxPoint x="473" y="562" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
